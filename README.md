@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elementor Image ID Updater
 
 ## Description
@@ -75,3 +76,6 @@ Kyle Weidner
 
 This plugin is licensed under the [GNU General Public License v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later.
 
+=======
+# elementor-image-id-updater
+>>>>>>> 64e1a46e0c5b332cef51c849b9cd4469161482ed
